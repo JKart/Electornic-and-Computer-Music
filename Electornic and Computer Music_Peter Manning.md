@@ -73,3 +73,16 @@ Paul Hindemith(1895-1963)
 
 
 ## Paris and Musique Concrète
+
+- 세계2차 대전의 영향: 기술의 발전 > 전자음악의 발달
+- 두 개의 주요 방송 네트워크: RTF, NWDR
+  - RTF: Musique Concrète 의 출현에 영향
+  - NWDR: elecktronische Music 출현에 영향
+
+
+
+### Pierre Schaeffer(1910-1995)
+
+- Études aux chemins de fer(1948)" [link](https://www.youtube.com/watch?v=tJwoQlYUVTk)
+  - 피에르 쉐퍼의 첫 작품
+  - 녹음된 소리의 재생 스피드를 다르게 함
