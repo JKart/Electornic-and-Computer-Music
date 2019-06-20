@@ -72,12 +72,14 @@ Paul Hindemith(1895-1963)
 
 
 
-## Paris and Musique Concrète
+## Paris and ==Musique Concrète==
 
 - 세계2차 대전의 영향: 기술의 발전 > 전자음악의 발달
-- 두 개의 주요 방송 네트워크: RTF, NWDR
+- 두 개의 주요 방송 네트워크: **RTF**(Radiodiffusion-Télévision Française), **NWDR**(Northwest German Broadcasting - NWDR)
   - RTF: Musique Concrète 의 출현에 영향
-  - NWDR: elecktronische Music 출현에 영향
+  - NWDR: Elecktronische Music 출현에 영향
+
+> 제2차 세계대전: 1935~1045
 
 
 
@@ -85,4 +87,66 @@ Paul Hindemith(1895-1963)
 
 - Études aux chemins de fer(1948)" [link](https://www.youtube.com/watch?v=tJwoQlYUVTk)
   - 피에르 쉐퍼의 첫 작품
+  - Recording, manipulating, and arranging variety of sounds
   - 녹음된 소리의 재생 스피드를 다르게 함
+- Etude au piano I, II [link](https://www.youtube.com/watch?v=QxqFbhZN88U)
+  - 한 대 피아노의 소리를 사용해서 제작
+
+> Cinq études de bruits(Five Studies of Noises)
+> From Wikipedia, the free encyclopedia
+>
+> Cinq études de bruits (Five Studies of Noises) is a collection of musical compositions by Pierre Schaeffer. The five études were composed in 1948 and are the earliest pieces of musique concrète, a form of electroacoustic music that utilises recorded sounds as a compositional resource.
+>
+> The five études were composed at the studio Schaeffer established at RTF (now ORTF), Studio d'Essai. They are:
+>
+> Étude aux chemins de fer - trains
+> Étude aux tourniquets - toy tops and percussion instruments
+> Étude violette - piano sounds recorded for Schaeffer by **Boulez**
+> Étude noire - piano sounds recorded for Schaeffer by **Boulez**
+> Étude pathétique - sauce pans, canal boats, singing, speech, harmonica, piano
+> The works were premiered via a broadcast on 5 October 1948, titled Concert de bruits.
+
+
+
+- Pierre Schaeffer "Suite pour 14 instruments : Vagotte-Gavotte"(1949)    [Link](https://www.youtube.com/watch?v=BzY6_RXlM2s)
+
+- Symphonie pour un homme seul (1950)- Pierre Schaeffer & Pierre Henry
+  - 1950; collaboration with Pierre Henry; revised versions in 1953, 1955, and 1966 (Henry)
+  - Pierre Henry(9 December 1927 – 5 July 2017)
+- Roger Richard 비평가 1950년 7월 19일 잡지 Combat "뮤직 콘크리트"에 대해 기사를 적음.
+- <u>1951년 RTF가 Schaeffer에게 새로운 스튜디오 제공</u> >> 이후 새로운 실험에 큰 영향!
+  - Morphophone [link](https://www.gettyimages.ie/detail/news-photo/morphophone-news-photo/600203361)
+  - Phonogène [Link](https://encyclotronic.com/synthesizers/misc-instruments/phonog%C3%A8ne-r1260/)
+
+- Pierre Schaeffer  "Groupe de Musique Concrète" 창설 >> 'Groupe de Recherches Musicales' GRM 개명  
+- In Search of a Concrete Music(1952)
+  - In Search of a Concrete Music [1] (French: À la recherche d'une musique concrète), written and published in 1952, is a French language publication which forms a major part of the experimental composer and theoretician Pierre Schaeffer's collection of works written to record his own undertakings on the development of musique concrète.
+
+
+
+- Pierre Schaeffer - Etude Aux Objets (Objets Exposés) [link](https://www.youtube.com/watch?v=WBaJX8QucY4)
+  - 1959년 작곡, 1966년도에 공개
+
+
+
+### 세계 대전 이후 파리가 new music의 발전의 중심지 중 하나
+
+- Jean Barraque
+- **Pierre Boulez**
+- Michel Philippot
+- Hermann Scherchen
+- Yves Baudrier
+- Marcel Delannoy
+- **Olivier Messiaen**
+  - Timbres Durées - Olivier Messiaen (1952) [link](https://www.youtube.com/watch?v=aQMWg0DVcL8)
+- Darius Milhaud
+- **Karlheinz Stockhausen**
+  - Etude - Stockhausen (1952) [link](https://www.youtube.com/watch?v=K6zFDumorPg)
+- Iannis Xenakis
+  - Iannis Xenakis - Diamorphoses (1957) - audio-partitura - [link](https://www.youtube.com/watch?v=b7235DNgkd0)
+- 등등
+
+
+
+### 1960년 이후는 Pierre Schaeffer 의 주도적이고 고립된 실험 시대가 끝남!!
+
