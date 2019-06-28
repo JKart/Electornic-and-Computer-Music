@@ -150,3 +150,79 @@ Paul Hindemith(1895-1963)
 
 ### 1960년 이후는 Pierre Schaeffer 의 주도적이고 고립된 실험 시대가 끝남!!
 
+
+
+## Cologne and Elektronische Musik
+
+### Elektronische Musik 개념 등장
+
+- Elektronische Musik: 뮤직 콘크리트달 다르게 여러 사람/기관의 교류를 통해서 발전했다.
+- 1948년도 만남: **Dr. Werner Meyer-Eppler** 당시 본 대학 교수, Homer Dudley 벨 연구소 과학자
+  - Homer Dudley: who created the first electronic voice synthesizer for Bell Labs in the 1930s
+  - Vocoder: speech **analyzer**, speech **synthesis**
+
+- 1949년도 Meyer-Eppler 보코더를 소개하는 글 출판!, 그 이후 보코더 기술을 활용한 여러 사운드 렉처를 했다. > **Robert Beyer**(Northwest German Broadcasting)가 흥미
+- 1950년, Meyer-Eppler, Robert Beyer "The Sound World of Electoronic Music" 강의 >>>**Herbert Eimert**가 관심
+  - Herbert Eimert (8 April 1897 – 15 December 1972) was a German music theorist, musicologist, journalist, music critic, editor, radio producer, and composer.
+- Meyer-Eppler, Robert Beyer, Herbert Eimert >>> **Elektronische Musik**
+
+
+
+
+
+### 쾰른 방송국
+
+- 1950년, Harald Bode 엔지니어 본인이 개발한 어떤 악기를 Meyer-Eppler 에게 소개.
+- 1951년도 쾰른 방송국, Meyer-Eppler, Robert Beyer, Herbert Eimert 전자 음악 관련 포럼 >>> 쾰른 방송국에서 전자음악 스튜디오 설립 필요성 느끼게 된다. >> <u>약 2년 이후에 완전히 스튜디오 작동</u>
+- 1952년 작곡가 Bruno Maderna가 Meyer-Eppler의 도움을 받아 작품 발표 > **Goeyvaerts, Bengt Hambraeus, Giselher Klebe, Gottfired Micheael Koenig, and Stockhausen** 발표 장소에 있었다.
+  - Bruno Maderna- Musica su due Dimensioni [link](https://www.youtube.com/watch?v=T28rO9kcNqY)
+
+- Beyer와 Eimert 작품 발표 - Klangstudie I
+  - Herbert Eimert - Klangstudie I (1952) [link](https://www.youtube.com/watch?v=BLSZ3cTI-6Y)
+  - Herbert Eimert - Klangstudie II (1952) [link](https://www.youtube.com/watch?v=HTSed3Ybzhg)
+
+- 1953년 Eimert - Struktur 8 발표
+- 1953년도에 처음으로 Elektronische Musik 음악이 상을 받음! ???  파리에서?
+
+- Karel Goeyvaerts - compositie nr. 5 met zuivere tonen 발표
+- Eimert - Glockenspiel [link](https://www.youtube.com/watch?v=139DPtaTH_k)
+
+
+
+### 새로운 악기와 Synthesis 테크닉 발달
+
+Elektronische Musik에서 음색, 톤을 어떻게 만들 것인가, 어떻게 통제할 것인가에 대한 논의
+
+- sine wave
+- sine wave를 결합해 새로운 소리를 만들 수 있다는 사실을 이미 알고 있었음 <<< Fourier transform
+
+새로운 전자악기의 등장: Melochord, Monochord
+
+- 오실레이터 여러 파형 추가: sawtooch, triangle, square wave
+- 여러 오실레이터의 소리를 합성(summing)하고 filter 하는 테크닉
+- Noise Generator > Noise + Filter 테크닉
+- Envelope 테크닉, 각 오실레이터 주파수 비율, modulation 테크닉…. 
+- 여러 필터 타입
+
+
+
+### 쉬탁하우젠 
+
+- 1953년 Karlheinz Stockhausen 작품 발표 
+  - Stockhausen - Studie 1 (1953) [link](https://www.youtube.com/watch?v=H4QaMwpVXVM)
+  - Stockhausen - Studie II [link](https://www.youtube.com/watch?v=_qi4hgT_d0o)
+
+- karlheinz stockhausen GESANG DER JÜNGLINGE (1955-56) [link](https://www.youtube.com/watch?v=nffOJXcJCDg)
+- Kontakte (1959-60) [link](https://www.youtube.com/watch?v=NhdEUbj0mgQ)
+  - 여러 레코드 테크닉 + 어쿠스틱 음악
+
+
+
+### 이 챕터 마지막에 여러 작곡가와 음악 리스트
+
+
+
+
+
+
+
