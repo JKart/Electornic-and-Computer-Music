@@ -222,6 +222,60 @@ Elektronische Musik에서 음색, 톤을 어떻게 만들 것인가, 어떻게 �
 
 
 
+## Milan and Elsewhere in Europe
+
+1955 이탈리아 밀란 RAI(Radio Audizioni Italiane) 주요 스튜디오 설립: **Luciano Berio**, Bruno Maderna
+
+- Luciano Berio - Différences [link](https://www.youtube.com/watch?v=L4N9zXSvSgM)
+- Luciano Berio : Thema - Omaggio a Joyce [link](https://www.youtube.com/watch?v=jV_76OZSsqo)
+- Luciano Berio - Visage (1961) [link](https://www.youtube.com/watch?v=UDTNEbAhrSc)
+- Henri Pousseur - Scambi (1957) [link](https://www.youtube.com/watch?v=nTVNXVCzkK4)
+
+
+
+## America
+
+1948년, 뉴욕 두 명의 레코드 엔지니어 - Louis Barron and Bebe Barron -이 악기를 녹음한 데이터를 재생하는 방식에 따른 음악적 표현 실험
+
+1951년부터 John Cage가 위 두 사람과 협업 > 그룹 창설 Barron, Earle Brown, Morton Feldman, David Tudor, Christian Wolff > "Music for Magetic Tape" 프로젝트 시작! (1953년도 종료)
+
+John Cage이 **I Ching 알고리즘**에 큰 관심, 확률, **우연성**, Randomness
+
+John Cage - Imaginary Landscape No 5 (1952) - [link](https://www.youtube.com/watch?v=bu38ZidvmEY)
+
+John Cage - Williams Mix (1952/1953) - [link](https://www.youtube.com/watch?v=9ql4Ophbt7k)
+
+
+
+1953년도 종료 이후 작곡가들이 개별적이로 음악 실험 이어나간다.
+
+John Cage: Aria (Fontana Mix) (1958) - [link](https://www.youtube.com/watch?v=a15xkowPEPg)
+
+John Cage/Max Neuhaus - Fontana Mix: Feed (1958/1964), realization 2012  - [link](https://www.youtube.com/watch?v=3FxNn-bbzBs)
+
+
+
+Vladimir Ussachevsky 도 잠깐 Barron 스튜디오에서 작업을 했다.
+
+- Vladimir Alexeevich Ussachevsky (November 3, 1911 in Hailar, China – January 2, 1990 in New York, New York) was a composer, particularly known for his work in electronic music.
+- Vladimir Ussachevsky - Transposition [link](https://www.youtube.com/watch?v=I75CgK7U82k)
+- Vladimir Ussachevsky - Underwater Waltz [link](https://www.youtube.com/watch?v=8gJHk8eCCi0)
+- Vladimir Ussachevsky - Sonic Contours [link](https://www.youtube.com/watch?v=l0ygrFPCUfw)
+
+- Otto Luening and Vladimir Ussachevsky - Rhapsodic Variations for Tape Recorder and Orchestra [link](https://www.youtube.com/watch?v=uKrCt_LkPrI)
+
+
+
+Edgard Varèse
+
+- 1930년대 미국에서 여러 작품 > 큰 호응 없음
+- 1940년대 말 이후부터 아이디어 체계가 잡혔다.
+- Edgar Varèse - Déserts (World Premiere, 1954) - [link](https://www.youtube.com/watch?v=_ihrJ2-8xao)
+
+- 1952-3년 Pierre Boulez 와 만남 > 파리 초청
+
+
+
 
 
 
